@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Johny Hans Canada - Subscribe for Updates</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        nav {
+            margin-top: 10px;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .hero {
+            background-color: #007bff;
+            color: #fff;
+            padding: 50px 20px;
+            text-align: center;
+        }
+        .hero h2 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .hero p {
+            font-size: 1.2em;
+            margin: 20px 0;
+        }
+        .btn {
+            background-color: #fff;
+            color: #007bff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .container {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .section h3 {
+            font-size: 1.8em;
+            margin-bottom: 10px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .form-group label {
+            display: block;
+            font-weight: bold;
+        }
+        .form-group input {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .form-group button {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 1em;
+            cursor: pointer;
+        }
+        footer {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        footer a {
+            color: #fff;
+            margin: 0 10px;
+            text-decoration: none;
+        }
+        .social-media {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Johny Hans Canada</h1>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Subscribe</a>
+        <a href="#">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h2>Stay Updated with Johny Hans Canada! 🇨🇦</h2>
+    <p>Your trusted source for the latest updates on Canadian immigration and study permits.</p>
+    <a href="#subscribe" class="btn">Subscribe Now</a>
+</section>
+
+<div class="container">
+
+    <section class="section">
+        <h3>Why Subscribe?</h3>
+        <p>Welcome to Johny Hans Canada! We’re dedicated to providing you with the latest updates, tips, and insights on Canadian immigration, study permits, work visas, and more. By subscribing to our newsletter, you’ll receive valuable information straight to your inbox, helping you stay informed and make the best decisions for your journey in Canada.</p>
+    </section>
+
+    <section class="section" id="subscribe">
+        <h3>What Will You Learn?</h3>
+        <ul>
+            <li><strong>Immigration Updates:</strong> Stay informed about the latest changes in Canadian immigration policies and regulations.</li>
+            <li><strong>Visa Tips and Tricks:</strong> Learn how to navigate the application process for study permits, work visas, and other important documents.</li>
+            <li><strong>Study Opportunities:</strong> Discover new programs and institutions that can enhance your educational journey in Canada.</li>
+            <li><strong>Career Advice:</strong> Get insights on how to maximize your work permit options and advance your career prospects.</li>
+            <li><strong>Success Stories:</strong> Read inspiring stories from others who have successfully made their way to Canada and find out how they did it.</li>
+            <li><strong>Exclusive Guides:</strong> Access in-depth guides and resources that aren’t available anywhere else.</li>
+        </ul>
+    </section>
+
+    <section class="section">
+        <h3>Subscribe to Our Newsletter</h3>
+        <form action="#" method="post">
+            <div class="form-group">
+                <label for="email">Email Address:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="whatsapp">WhatsApp Number:</label>
+                <input type="tel" id="whatsapp" name="whatsapp" required>
+            </div>
+            <div class="form-group">
+                <button type="submit">Sign Up Now!</button>
+            </div>
+        </form>
+    </section>
+
+</div>
+
+<footer>
+    <p>For any inquiries or further assistance, feel free to contact us at <a href="mailto:contact@example.com">contact@example.com</a>.</p>
+    <div class="social-media">
+        <a href="#">Facebook</a> | <a href="#">Twitter</a> | <a href="#">Instagram</a>
+    </div>
+    <p>© 2024 Johny Hans Canada. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
